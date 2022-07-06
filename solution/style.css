@@ -30,7 +30,7 @@ body {
   width: 0.1rem;
   border-radius: 10px;
   background-color: red;
-  transform: translateX(50%);
+  transform: translateX(50%) translateY(-50%);
   transform-origin: 25% 0;
 }
 
@@ -42,7 +42,7 @@ body {
   width: 0.3rem;
   border-radius: 10px;
   background-color: black;
-  transform: translateX(50%);
+  transform: translateX(50%) translateY(-50%);
   transform-origin: 25% 0;
 }
 
@@ -54,7 +54,7 @@ body {
   width: 0.6rem;
   border-radius: 10px;
   background-color: black;
-  transform: translateX(50%);
+  transform: translateX(50%) translateY(-50%);
   transform-origin: 25% 0;
 }
 
@@ -66,5 +66,5 @@ body {
   width: 1rem;
   border-radius: 50%;
   background-color: black;
-  transform: translateX(50%);
+  transform: translateX(50%) translateY(-50%);
 }
